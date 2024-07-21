@@ -1,6 +1,5 @@
 #pragma once
 #include "ECS.hpp"
-#pragma once
 
 class PositionComponent : public Component
 {
